@@ -1,6 +1,6 @@
 // Solicitar a nota do aluno
 
-let nota = parseInt(prompt("Insira sua Nota"));
+let nota = parseFloat(prompt("Insira sua Nota"));
 
 // Verificar se a nota é maior que 7
 
